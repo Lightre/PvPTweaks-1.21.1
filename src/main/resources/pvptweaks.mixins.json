@@ -3,7 +3,7 @@
 	"package": "com.lightre.pvptweaks.mixin",
 	"compatibilityLevel": "JAVA_21",
 	"mixins": [
-		"ExampleMixin"
+		"InGameHudMixin"
 	],
 	"injectors": {
 		"defaultRequire": 1
